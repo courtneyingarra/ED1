@@ -1,5 +1,5 @@
 function setup() {
-createCanvas (windowWidth, windowHeight);//this creats the window width and height to be the size oif my browser window
+createCanvas (windowWidth, windowHeight);
 background (255,0,0)
 
 }
