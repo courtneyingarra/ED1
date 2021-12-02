@@ -1,7 +1,7 @@
 let gif;
 
 function preload(){
-  gif = loadImage ('')
+  gif = loadImage ('FinalGIF.gif');
 }
 
 function setup() {
