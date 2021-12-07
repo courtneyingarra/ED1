@@ -10,7 +10,7 @@ function setup() { //runs once
 
 function draw() {
 
-background (199,233,255);
+background (218, 255, 173);
 
 translate (10,6)
 
