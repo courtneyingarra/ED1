@@ -12,7 +12,7 @@ function draw() {
 
 background (218, 255, 173);
 
-translate (10,6)
+translate (10,70)
 
 var num = 16; //variable for the number of squares in the array
 var sideLen = windowWidth/num;//variable for the side lenth of each square
